@@ -22,7 +22,6 @@ Mistweaver
 
 ![mistweaver ui](imgs/mistweaver-ui.png)
 ![partial mistweaver ui](imgs/mistweaver-ui-partial-combat.png)
-![mistweaver in combat ui](imgs/mistweaver-ui-combat.png)
 Minimal dynamic windwalker UI which tracks all important buffs, procs, defensives, & cooldowns etc.
 
 
