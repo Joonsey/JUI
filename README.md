@@ -4,6 +4,7 @@
 It is very minimal is entirely built using lightweight WeakAuras.
 
 I do also have little- and bigwigs which are both higly customized.
+plater for enemy nameplates as well
 
 I will also use glass to make my chat look cool when it starts working in this expansion.
 
@@ -12,7 +13,7 @@ Windwalker
 
 ![windwalker ui](imgs/windwalker-ui.png)
 ![partial windwalker ui](imgs/windwalker-ui-partial-combat.png)
-
+![windwalker in combat ui](imgs/windwalker-ui-combat.png)
 Minimal dynamic mistweaver UI which tracks all important buffs, defensives, & cooldowns etc.
 
 
@@ -21,7 +22,7 @@ Mistweaver
 
 ![mistweaver ui](imgs/mistweaver-ui.png)
 ![partial mistweaver ui](imgs/mistweaver-ui-partial-combat.png)
-
+![mistweaver in combat ui](imgs/mistweaver-ui-combat.png)
 Minimal dynamic windwalker UI which tracks all important buffs, procs, defensives, & cooldowns etc.
 
 
