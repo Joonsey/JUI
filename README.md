@@ -1,8 +1,13 @@
 # Jae UI
 
-My custom user interface in World of Warcraft 
+## My custom user interface in World of Warcraft. 
+It is very minimal is entirely built using lightweight WeakAuras.
 
-Mistweaver
+I do also have little- and bigwigs which are both higly customized.
+
+I will also use glass to make my chat look cool when it starts working in this expansion.
+
+Windwalker
 ------
 
 ![windwalker ui](imgs/windwalker-ui.png)
